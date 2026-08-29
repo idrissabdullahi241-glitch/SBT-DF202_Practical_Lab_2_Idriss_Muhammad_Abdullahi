@@ -1,0 +1,59 @@
+﻿Created By Exterro® FTK® Imager 8.3.0.27 
+
+Case Information: 
+Case Number: SBT-DFS-202
+Evidence Number: EV04
+Unique description: Acquiring a USB Image
+Examiner: Idriss muhammad
+Notes: image type: dd
+Encrypted Password : N/A
+
+Computer Name: DADYS-BABY
+Windows Edition: Windows 11 Pro
+Windows Version: Microsoft Windows 6.3.22621.4317
+OS build: 6.3.22621
+Processor: Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz
+Installed RAM: 8 GB
+
+--------------------------------------------------------------
+
+Information for C:\Users\desklink\Desktop\PHASE 2\USB_image:
+
+Physical Evidentiary Item (Source) Information:
+  [Device Info]
+    Source Type: Physical
+  [Drive Geometry]
+    Cylinders: 122
+    Tracks per Cylinder: 255
+    Sectors per Track: 63
+    Bytes per Sector: 512
+    Sector Count: 1,966,080
+  [Physical Drive Information]
+    Drive Model: F8 T5 USB Device
+    Drive Serial Number: 11101168307
+    Drive Interface Type: USB
+    Removable drive: True
+    Source data size: 960 MB
+    Sector count:    1966080
+  [Computed Hashes]
+    MD5 Hash:    fe910286ef8406aab8374e9cf2b83055
+    SHA1 Hash:   1b5795173fbd769222f870ecfd5aa72a55035608
+
+Verification Definitions:
+  Computed hash: The hash calculated of the source media during the creation or verify process
+  Stored verification hash: The hash calculated during image acquisition and stored inside the image
+  Report hash: The hash calculated during image acquisition and stored in the image summary report
+
+Image Information:
+  Acquisition started:   Sat Aug 29 14:00:42 2026 (2026-08-29T13:00:42Z)
+  Acquisition finished:  Sat Aug 29 14:20:17 2026 (2026-08-29T13:20:17Z)
+  Segment list:
+    C:\Users\desklink\Desktop\PHASE 2\USB_image.001
+
+Image Verification Results:
+  Verification started:  Sat Aug 29 14:20:17 2026 (2026-08-29T13:20:17Z)
+  Verification finished: Sat Aug 29 14:20:23 2026 (2026-08-29T13:20:23Z)
+  MD5 - Computed hash:             fe910286ef8406aab8374e9cf2b83055 : verified
+  MD5 - Report hash:               fe910286ef8406aab8374e9cf2b83055 : verified
+  SHA1 - Computed hash:            1b5795173fbd769222f870ecfd5aa72a55035608 : verified
+  SHA1 - Report hash:              1b5795173fbd769222f870ecfd5aa72a55035608 : verified
