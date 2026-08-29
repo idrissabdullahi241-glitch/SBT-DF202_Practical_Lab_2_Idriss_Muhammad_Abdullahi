@@ -22,12 +22,12 @@ The purpose of this laboratory exercise was to create a forensically sound image
 
 The objectives of this laboratory were:
 
-Prepare a USB device with sample evidence.
-Document evidence acquisition information.
-Acquire a forensic image using FTK Imager.
-Verify image integrity using cryptographic hashes.
-Validate that the image contains the expected evidence file.
-Produce a professional forensic acquisition report.
+1. Prepare a USB device with sample evidence.
+2. Document evidence acquisition information.
+3. Acquire a forensic image using FTK Imager.
+4. Verify image integrity using cryptographic hashes.
+5. Validate that the image contains the expected evidence file.
+6. Produce a professional forensic acquisition report.
 
 3. Evidence Preparation
 
@@ -52,11 +52,6 @@ I confirm that this USB device was prepared for a controlled forensic acquisitio
 Show more lines
 Evidence Preparation Screenshots
 
-Insert:
-
-Screenshot 01: USB Connected
-Screenshot 02: Evidence Folder
-Screenshot 03: Text File Contents
 4. Evidence Acquisition Information
 Item	InformationCase/Lab ID	CIP-B102-Lab4
 Student Name	Idriss Muhammad Abdullahi
@@ -140,39 +135,17 @@ Screenshot 10
 After successful imaging, FTK Imager generated verification hashes.
 
 Source Device Hashes
-Plain Text
-1
+
 MD5:
-2
-_________________________
-3
- 
-4
+computed Hashes: fe910286ef8406aab8374e9cf2b83055
+reported Hashes: fe910286ef8406aab8374e9cf2b83055
+Verified Results: MAtch
 SHA1:
-5
-_________________________
-Show more lines
-Acquired Image Hashes
-Plain Text
-1
-MD5:
-2
-_________________________
-3
- 
-4
-SHA1:
-5
-_________________________
-Show more lines
-Comparison Results
-Hash Type	Source	Image	MatchMD5	Yes	Yes	Yes
-SHA1	Yes	Yes	Yes
-Verification Result
+Computed HAshes: 1b5795173fbd769222f870ecfd5aa72a55035608
+reported Hashes: 1b5795173fbd769222f870ecfd5aa72a55035608
+verified results: Match
 
 The generated hash values matched successfully, confirming that the acquired image is an exact forensic copy of the source USB device.
-
-Screenshot 11
 
 7. Validation of Forensic Image
 
